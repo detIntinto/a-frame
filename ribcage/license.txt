@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ribcage
+* source:	https://sketchfab.com/3d-models/ribcage-d587477df9e34473bd3149fa86b4bb9e
+* author:	halimi13744 (https://sketchfab.com/halimi13744)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ribcage" (https://sketchfab.com/3d-models/ribcage-d587477df9e34473bd3149fa86b4bb9e) by halimi13744 (https://sketchfab.com/halimi13744) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
